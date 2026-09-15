@@ -1,11 +1,10 @@
 {
   "name": "designer-skills",
-  "module": "index.ts",
   "type": "module",
   "private": true,
   "pi": {
     "extensions": [
-      "./interaction-design"
+      "./interaction-design/index.ts"
     ]
   },
   "devDependencies": {

@@ -3,11 +3,11 @@
     "version": "1.0.0",
     "private": true,
     "pi": {
-        "skills": [
-            "./skills"
-        ],
-        "prompts": [
-            "./commands"
+        "extensions": [
+            "index.ts"
         ]
+    },
+    "dependencies": {
+        "@earendil-works/pi-coding-agent": "^0.85.1"
     }
 }
