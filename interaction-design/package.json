@@ -5,6 +5,12 @@
     "pi": {
         "extensions": [
             "index.ts"
+        ],
+        "skills": [
+            "./skills"
+        ],
+        "prompts": [
+            "./commands"
         ]
     },
     "dependencies": {
