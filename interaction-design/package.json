@@ -1,0 +1,13 @@
+{
+    "name": "interaction-design",
+    "version": "1.0.0",
+    "private": true,
+    "pi": {
+        "skills": [
+            "./skills"
+        ],
+        "prompts": [
+            "./commands"
+        ]
+    }
+}

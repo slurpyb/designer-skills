@@ -1,0 +1,17 @@
+{
+  "name": "designer-skills",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "pi": {
+    "extensions": [
+      "./interaction-design"
+    ]
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
