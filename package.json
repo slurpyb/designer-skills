@@ -4,7 +4,37 @@
   "private": true,
   "pi": {
     "extensions": [
-      "./interaction-design/index.ts"
+      "./design-ops/index.ts",
+      "./design-research/index.ts",
+      "./design-systems/index.ts",
+      "./designer-toolkit/index.ts",
+      "./interaction-design/index.ts",
+      "./prototyping-testing/index.ts",
+      "./ui-design/index.ts",
+      "./ux-strategy/index.ts",
+      "./visual-critique/index.ts"
+    ],
+    "prompts": [
+      "./design-ops/commands",
+      "./design-research/commands",
+      "./design-systems/commands",
+      "./designer-toolkit/commands",
+      "./interaction-design/commands",
+      "./prototyping-testing/commands",
+      "./ui-design/commands",
+      "./ux-strategy/commands",
+      "./visual-critique/commands"
+    ],
+    "skills": [
+      "./design-ops/skills",
+      "./design-research/skills",
+      "./design-systems/skills",
+      "./designer-toolkit/skills",
+      "./interaction-design/skills",
+      "./prototyping-testing/skills",
+      "./ui-design/skills",
+      "./ux-strategy/skills",
+      "./visual-critique/skills"
     ]
   },
   "devDependencies": {

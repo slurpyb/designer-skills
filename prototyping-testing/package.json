@@ -1,0 +1,19 @@
+{
+    "name": "prototyping-testing",
+    "version": "1.0.0",
+    "private": true,
+    "pi": {
+        "extensions": [
+            "index.ts"
+        ],
+        "skills": [
+            "./skills"
+        ],
+        "prompts": [
+            "./commands"
+        ]
+    },
+    "dependencies": {
+        "@earendil-works/pi-coding-agent": "^0.85.1"
+    }
+}

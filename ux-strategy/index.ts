@@ -5,4 +5,3 @@ export default async function (pi: ExtensionAPI) {
         ctx.ui.notify(`Session: ${ctx.sessionManager.getSessionFile() ?? "ephemeral"}`, "info");
       });
 }
-
