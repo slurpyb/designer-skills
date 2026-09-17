@@ -1,0 +1,19 @@
+{
+  "name": "design-systems",
+  "version": "1.0.0",
+  "description": "Build, document, and maintain scalable design systems \u2014 from tokens and components to accessibility and theming.",
+  "author": {
+    "name": "MC Dean"
+  },
+  "keywords": [
+    "design-systems",
+    "tokens",
+    "components",
+    "accessibility",
+    "theming"
+  ],
+  "homepage": "https://github.com/Owl-Listener/designer-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
